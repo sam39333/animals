@@ -1,3 +1,5 @@
 Tiger
 Monkey
 Ostrich
+lions
+giraffe
